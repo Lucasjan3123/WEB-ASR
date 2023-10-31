@@ -8,6 +8,7 @@ Ini adalah web portofolio yang dibuat untuk perusahaan PT. Actual Self Resources
 - [Cara Menjalankan Proyek Ini](#Cara-Menjalankan-Proyek-Ini)
 - [Kontribusi](#kontribusi)
 - [Cara menggunakan fitur Admin Area pada Website](#Cara-menggunakan-fitur-Admin-Area-pada-Website)
+- [Link Website](#Link-Website)
 
 
 ## Deskripsi
@@ -48,5 +49,6 @@ Kami senang menerima kontribusi dari komunitas! Jika Anda memiliki saran atau pe
 - ## cara buat , edit dan hapus kategori dan tag
   https://youtu.be/U6ZeoNwVdUo
 
-
+## Link Website 
+  https://asresourcesindonesia.infinityfreeapp.com/ 
   
