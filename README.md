@@ -40,13 +40,13 @@ Kami senang menerima kontribusi dari komunitas! Jika Anda memiliki saran atau pe
 
 
 ## Cara menggunakan fitur Admin Area pada Website 
-- **Cara Buat Blog :**
+1. **Cara Buat Blog :**
   https://youtu.be/M3YWnvCt1hY 
-- **Cara edit dan hapus blog :**
+2. **Cara edit dan hapus blog :**
   https://youtu.be/krum3jwAKUI
-- **Cara buat,edit , dan hapus news :**
+3. **Cara buat,edit , dan hapus news :**
   https://youtu.be/KCn1AaQC5Hk
-- **Cara buat , edit dan hapus kategori dan tag :**
+4. **Cara buat , edit dan hapus kategori dan tag :**
   https://youtu.be/U6ZeoNwVdUo
 
 ## Link Website 
