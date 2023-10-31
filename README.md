@@ -7,7 +7,7 @@ Ini adalah web portofolio yang dibuat untuk perusahaan PT. Actual Self Resources
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)
 - [Cara Menjalankan Proyek Ini](#Cara-Menjalankan-Proyek-Ini)
 - [Kontribusi](#kontribusi)
-- [Kontribusi](#kontribusi)
+- [Cara menggunakan fitur Admin Area pada Website](#Cara-menggunakan-fitur-Admin-Area-pada-Website)
 
 
 ## Deskripsi
