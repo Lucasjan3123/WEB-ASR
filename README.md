@@ -32,7 +32,10 @@ Situs web ini dibuat menggunakan HTML untuk struktur, CSS untuk tata letak dan d
 ## Cara Menjalankan Proyek Ini
 
 1. Klona repositori ini: `git clone https://github.com/Lucasjan3123/WEB-ASR.git`
-2. ketikan [127.0.0.1](http://127.0.0.1:8000/) di situs pencarian 
+2. ketikan di terminal pada file WEB-ASR di Visual Studio composer install
+3. copy file env dan paste di file WEB-ASR
+4. ketikan php artisan key:generate di terminal 
+5. ketikan [127.0.0.1](http://127.0.0.1:8000/) di situs pencarian 
 
 ## Kontribusi
 
