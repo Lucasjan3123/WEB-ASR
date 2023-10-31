@@ -5,9 +5,10 @@ Ini adalah web portofolio yang dibuat untuk perusahaan PT. Actual Self Resources
 
 - [Deskripsi](#deskripsi)
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)
-- [Instalasi](#instalasi)
+- [Cara Menjalankan Proyek Ini](#Cara-Menjalankan-Proyek-Ini)
 - [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
+- [Kontribusi](#kontribusi)
+
 
 ## Deskripsi
 
@@ -37,5 +38,15 @@ Situs web ini dibuat menggunakan HTML untuk struktur, CSS untuk tata letak dan d
 Kami senang menerima kontribusi dari komunitas! Jika Anda memiliki saran atau perbaikan, jangan ragu untuk membuat *pull request*.
 
 
-## cara menggunakan Website ini 
-- 
+## Cara menggunakan fitur Admin Area pada Website 
+- ## Cara Buat Blog 
+  https://youtu.be/M3YWnvCt1hY 
+- ## Cara edit dan hapus blog 
+  https://youtu.be/krum3jwAKUI
+- ## Cara buat,edit , dan hapus news
+  https://youtu.be/KCn1AaQC5Hk
+- ## cara buat , edit dan hapus kategori dan tag
+  https://youtu.be/U6ZeoNwVdUo
+
+
+  
