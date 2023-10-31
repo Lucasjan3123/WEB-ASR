@@ -31,7 +31,7 @@ Situs web ini dibuat menggunakan HTML untuk struktur, CSS untuk tata letak dan d
 
 ## Cara Menjalankan Proyek Ini
 
-1. Klona repositori ini: `git clone https://github.com/namarepositori.git`
+1. Klona repositori ini: `git clone https://github.com/Lucasjan3123/WEB-ASR.git`
 2. ketikan [127.0.0.1](http://127.0.0.1:8000/) di situs pencarian 
 
 ## Kontribusi
